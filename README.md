@@ -41,6 +41,14 @@ The admin dashboard also provides CSV downloads when a manual export is needed.
 
 ---
 
+### Business analytics overview
+
+The admin dashboard gives the store owner a visual overview of the business: orders, revenue, estimated net profit, and order statuses. It also shows trends over selected time ranges, revenue by category and design, and top-performing products.
+
+This brings the numbers together in one place so the owner can spot changes and understand what is selling without reading every order individually.
+
+---
+
 ## Performance, SEO, and security
 
 - Used limits and more focused data requests as I learned how Firestore reads affect performance and cost.
@@ -52,6 +60,10 @@ The admin dashboard also provides CSV downloads when a manual export is needed.
 ---
 
 ## Project screenshots
+
+### Admin — Business Analytics Overview
+
+<!-- Add a screenshot of the metrics and charts here -->
 
 ### 01 — Homepage: Brand & 3D Logo
 
